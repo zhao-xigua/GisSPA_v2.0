@@ -35,7 +35,9 @@ In this version, the primary improvement is the correction of the GPU memory lea
 https://github.com/Autumn1998/GisSPA
 
   3.When using GisSPA, you should follow it with a config file and then press Enter. It is normal to see the following warning after pressing Enter when calling the main program:
-  ![image](https://github.com/user-attachments/assets/29de23dc-e80e-4149-9204-7240763af452)
+  ![image](https://github.com/user-attachments/assets/592f4805-889e-4438-8525-3333adf96fbf)
+
+
 
 
 
@@ -60,3 +62,4 @@ https://github.com/Autumn1998/GisSPA
 
 ******Contributor******
 Li Rui & Chen Yuanbo & Zhao Mingjie
+
