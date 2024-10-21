@@ -24,7 +24,8 @@ In this version, the primary improvement is the correction of the GPU memory lea
   1.The installation method for GisSPA_v2.0 is the same as the original GisSPA version, but pay attention to the paths in the Makefile.
   
   Correct example:
-![image](https://github.com/user-attachments/assets/c82f60c2-c2c9-4652-b031-9792b59fd045)
+![image](https://github.com/user-attachments/assets/45cc4070-5978-47a1-9ba3-6857feaeb50f)
+
 
   Note when modifying the path: The first slash in the path is mandatory; it should be followed by the relative path to the HDF5 package from the current directory.
   
@@ -36,7 +37,8 @@ In this version, the primary improvement is the correction of the GPU memory lea
 https://github.com/Autumn1998/GisSPA
 
   3.When using GisSPA, you should follow it with a config file and then press Enter. It is normal to see the following warning after pressing Enter when calling the main program:
-  ![image](https://github.com/user-attachments/assets/bff712ba-d28b-4fa3-a2dc-a0de4290c0c5)
+  ![image](https://github.com/user-attachments/assets/c2eb293a-9296-43c7-b953-84dff9294bdc)
+
 
 
 
