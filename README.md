@@ -20,6 +20,7 @@ In this version, the primary improvement is the correction of the GPU memory lea
 
 
 ******Installation******
+
   1.The installation method for GisSPA_v2.0 is the same as the original GisSPA version, but pay attention to the paths in the Makefile.
   
   Correct example:
@@ -44,6 +45,7 @@ https://github.com/Autumn1998/GisSPA
 
 
 ******Answers to some frequently asked questions******
+
   1.Which version should be used to generate HDF projection files?
   
   Use the project3d function from EMAN1. It is preferable not to use EMAN2.
