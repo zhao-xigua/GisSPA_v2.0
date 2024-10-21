@@ -5,6 +5,8 @@ In this version, the primary improvement is the correction of the GPU memory lea
 
 
 
+
+
 ******Improvements******
 
   1.We previously observed that GisSPA might produce inconsistent results on different servers with varying GPU cards and CUDA versions. This issue has now been resolved.
@@ -17,6 +19,8 @@ In this version, the primary improvement is the correction of the GPU memory lea
 
   
   When ‘norm_type=0’ is used, the large image is divided into smaller (e.g.720x720) sections for computation, and the normalization algorithm is not applied. This setting is suitable for servers with less powerful GPUs, as processing large images can be demanding on the GPU, and omitting normalization can speed up the computation.
+
+
 
 
 
@@ -60,6 +64,8 @@ https://github.com/Autumn1998/GisSPA
 
 
 
+
+
 ******Answers to some frequently asked questions******
 
 
@@ -79,6 +85,9 @@ https://github.com/Autumn1998/GisSPA
 
   
   You can split the entire dataset into multiple parts using the 'first' and 'last' parameters in the config file. Each part can then be processed on a separate GPU.
+
+
+
 
 
 
